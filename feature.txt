@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-First feature added
-=======
-Modify from feature Update
->>>>>>> cbfbead (Modify from feature-update)
